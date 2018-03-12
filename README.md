@@ -1,8 +1,8 @@
 #Create SMS with node
 
 #Install nodemon
-$ npm install nodeman --g
+<addr>$ npm install nodeman --g
 
 #Run server
-$ nodemon
+<addr> $ nodemon
 
